@@ -1,3 +1,6 @@
+# Run docker compose
+docker compose up -d
+
 # Default user:
 root
 # Password:
