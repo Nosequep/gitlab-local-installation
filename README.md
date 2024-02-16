@@ -1,4 +1,4 @@
-User:
+# Default user:
 root
-Password:
-7YhHNeYD2drbWO1By845zxjNIen9oLZfMZSF74R7lFY=
+# Password:
+You can find the password in /etc/gitlab/initial_root_password container directory
